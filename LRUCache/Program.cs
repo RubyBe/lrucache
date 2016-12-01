@@ -8,6 +8,7 @@ namespace LRUCache
 {
     class Program
     {
+        // A program which implements a less recently used cache
         static void Main(string[] args)
         {
         }
